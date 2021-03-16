@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101912451","appkey":"7c4aeb4ae5845d24ff08deb99ffad067","callback":"http://www.nyistqiusuo.cn/fly/public/index.php/index/Register/register1","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
